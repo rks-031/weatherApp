@@ -8,7 +8,7 @@ The app has a user interface designed using **HTML, CSS, and JavaScript**. It al
 **A screenshot of the app is shown below.**
 ![weather-app](https://github.com/rks-031/weatherApp/assets/103258259/faf850be-e286-4479-b405-11ce05b9271f)
 
-**Click on the link below to watch the working of the app.**
+**Working of the app is shown below.**
 
 https://github.com/rks-031/weatherApp/assets/103258259/652814fd-b8c2-48df-b031-09d35dfa4f6d
 
